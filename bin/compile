@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 
 echo "REVIEW APP STUFF\n"
-echo ${HEROKU_APP_NAME}
+echo $HEROKU_APP_NAME
 echo "\nREVIEW APP STUFF"
